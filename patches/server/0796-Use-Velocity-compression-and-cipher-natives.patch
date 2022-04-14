@@ -5,10 +5,10 @@ Subject: [PATCH] Use Velocity compression and cipher natives
 
 
 diff --git a/build.gradle.kts b/build.gradle.kts
-index e789d52955cf9f353cf52af3a5a69bb7b54085bd..e067c69fea1dec79ef8e97cad1c74020b6a3a235 100644
+index 35266258f7eddba51a6e2b334046954213d88237..86e61491936d1b6821bd3776cd95fecf05a9b1b9 100644
 --- a/build.gradle.kts
 +++ b/build.gradle.kts
-@@ -55,6 +55,7 @@ dependencies {
+@@ -46,6 +46,7 @@ dependencies {
      implementation("io.netty:netty-all:4.1.65.Final") // Paper
  
      implementation("net.fabricmc:mapping-io:0.3.0") // Paper - needed to read mappings for stacktrace deobfuscation
