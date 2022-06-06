@@ -4,8 +4,7 @@ Paper [![Paper Build Status](https://img.shields.io/github/workflow/status/Paper
 [![Open Collective](https://img.shields.io/opencollective/all/papermc?label=OpenCollective%20Sponsors)](https://opencollective.com/papermc)
 ===========
 
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
-
+A paper fork with the goal of making a more vanilla base for servers
 
 **Support and Project Discussion:**
  - [Our forums](https://forums.papermc.io/), [Discord](https://discord.gg/papermc), or [IRC](https://webchat.esper.net/?channels=paper)
