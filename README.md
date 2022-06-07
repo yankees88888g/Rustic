@@ -1,10 +1,9 @@
-Paper [![Paper Build Status](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master)](https://github.com/PaperMC/Paper/actions)
-[![Discord](https://img.shields.io/discord/289587909051416579.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/papermc)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/papermc?label=GitHub%20Sponsors)](https://github.com/sponsors/PaperMC)
-[![Open Collective](https://img.shields.io/opencollective/all/papermc?label=OpenCollective%20Sponsors)](https://opencollective.com/papermc)
+Rustic 
+[![Discord](https://img.shields.io/discord/289587909051416579.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/5RkqZt2Qt8)
 ===========
 
-A paper fork with the goal of making a more vanilla base for servers
+A paper fork with the goal of making a more vanilla base for servers.
+
 
 **Support and Project Discussion:**
  - [Our forums](https://forums.papermc.io/), [Discord](https://discord.gg/papermc), or [IRC](https://webchat.esper.net/?channels=paper)
