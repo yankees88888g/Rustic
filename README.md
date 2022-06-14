@@ -6,10 +6,10 @@ A paper fork with the goal of making a more vanilla base for servers.
 
 
 **Support and Project Discussion:**
- - [Our forums](https://forums.papermc.io/), [Discord](https://discord.gg/papermc), or [IRC](https://webchat.esper.net/?channels=paper)
+ - [Our forums](https://forums.papermc.io/), [Discord](https://discord.gg/5RkqZt2Qt8), or [IRC](https://webchat.esper.net/?channels=paper)
 
 How To (Server Admins)
-------
+-----
 Paperclip is a jar file that you can download and run just like a normal jar file.
 
 Download Paper from our [downloads page](https://papermc.io/downloads).
